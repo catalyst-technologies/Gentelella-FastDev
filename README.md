@@ -11,7 +11,6 @@ The original repository for this theme is found [Here](https://github.com/puikin
 ## Theme Demo
 ![Gentelella Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg "Gentelella Theme Browser Preview")
 
-**[Template Demo](https://colorlib.com/polygon/gentelella/index.html)**
 
 ## This Repository
 This repository is made because I am lazy in doing it again. It is designed to allow quick modifications on the template without writing the HTML codes again and again. This repository was a result of a "nothing to do" day and "way too much time".
