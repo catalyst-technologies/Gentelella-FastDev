@@ -48,4 +48,6 @@ You can simply activate all this feature by following the simple steps below:
 * `cd` to this Project
 * run the command `gulp`
 
+NOTE: Edit only in src.
+
 ### Enjoy!
